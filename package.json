@@ -1,0 +1,31 @@
+{
+  "name": "excel-course-minin",
+  "version": "1.0.0",
+  "description": "pure js excel app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejscript/excel-course-minin.git"
+  },
+  "keywords": [
+    "js",
+    "jsvascript",
+    "excel"
+  ],
+  "author": "Andrey <andzion105@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejscript/excel-course-minin/issues"
+  },
+  "homepage": "https://github.com/andrejscript/excel-course-minin#readme",
+  "private": "true",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
